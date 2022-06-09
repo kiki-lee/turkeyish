@@ -32,7 +32,7 @@
 * url: /skillmap/turkey/turkey1a
 * tags: easy, sprites, tiles
 * imageUrl: /static/skillmap/turkey/turkey1.gif
-* next: turkey2
+* next: turkey2a
 * position: 1 -1
 
 ### turkey2a
@@ -42,7 +42,7 @@
 * url: /skillmap/turkey/turkey2a
 * tags: easy, tiles, events
 * imageUrl: /static/skillmap/turkey/turkey2.gif
-* next: turkey3
+* next: turkey3a
 * position: 2 0
 
 ### turkey3a
